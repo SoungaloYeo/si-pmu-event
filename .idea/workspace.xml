@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87ff42d2-b217-4d28-b27f-3e3e01f1e0b2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="nexus" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2K6cVxPGh7dGMSCJ6SZWRRnxDc1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_directory_selection": "/Users/soungalo/Documents/DEV/perso/si-pmu-event/courses-manager/src/test/java/fr/pmu",
+    "last_opened_file_path": "/Users/soungalo/Documents/DEV/perso/si-pmu-event/kafka-courses-manager/src/main/resources",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kafka-courses-manager/src/main/resources" />
+      <recent name="$PROJECT_DIR$/kafka-courses-manager/src/main" />
+      <recent name="$PROJECT_DIR$/courses-manager/src/test/resources" />
+      <recent name="$PROJECT_DIR$/courses-manager/src/main/java/fr/pmu/handler" />
+      <recent name="$PROJECT_DIR$/courses-manager/src/test/java/fr" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="fr.pmu.controller" />
+      <recent name="fr.pmu" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fr.pmu.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.pmu" />
+      <recent name="fr.pmu.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CoursesManagerApplication">
+    <configuration name="CoursesManagerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.pmu.CoursesManagerApplication" />
+      <module name="courses-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.pmu.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaCoursesManagerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.pmu.KafkaCoursesManagerApplication" />
+      <module name="kafka-courses-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.pmu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceControllerIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="courses-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.pmu.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.pmu.controller" />
+      <option name="MAIN_CLASS_NAME" value="fr.pmu.controller.RaceControllerIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceControllerIT.given_less_than_3_starters_should_failed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="courses-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.pmu.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.pmu.controller" />
+      <option name="MAIN_CLASS_NAME" value="fr.pmu.controller.RaceControllerIT" />
+      <option name="METHOD_NAME" value="given_less_than_3_starters_should_failed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceControllerIT.given_right_parameter_creation_should_succeed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="courses-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.pmu.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.pmu.controller" />
+      <option name="MAIN_CLASS_NAME" value="fr.pmu.controller.RaceControllerIT" />
+      <option name="METHOD_NAME" value="given_right_parameter_creation_should_succeed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoursesManagerApplication" />
+        <item itemvalue="Application.KafkaCoursesManagerApplication" />
+        <item itemvalue="JUnit.RaceControllerIT" />
+        <item itemvalue="JUnit.RaceControllerIT.given_less_than_3_starters_should_failed" />
+        <item itemvalue="JUnit.RaceControllerIT.given_right_parameter_creation_should_succeed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ff42d2-b217-4d28-b27f-3e3e01f1e0b2" name="Changes" comment="" />
+      <created>1673298500982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673298500982</updated>
+    </task>
+    <servers />
+  </component>
+</project>
